@@ -14,8 +14,8 @@
 　「TwoDimensionsPercolation.exe」をダウンロードし、実行してください
 
 ## 使い方
-　1. 正方行列の数値を入力しEnter<br>
-　2. 出力ファイルはソースコードに指定された場所確認
+　1. コンソール画面にて正方行列の数値を入力しEnter<br>
+　2. 出力ファイルはソースコードに指定された場所を確認
 
 ## その他
 　ソースコードで実行する場合は[Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page "Eigen")をインストールして下さい
